@@ -1,0 +1,21 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+#header{
+	height: 5%;
+	width: 100%;
+	font-family: calibri;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+}
+#map_div{
+	height: 75%;
+	width: 90%;
+	position: absolute;
+	top: 12.5%;
+	left: 5%;
+}
